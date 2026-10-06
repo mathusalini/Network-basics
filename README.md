@@ -160,6 +160,7 @@ After the data is transformed into a series of bits, it must be converted into s
 
 <img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/a13673ff-b29f-47c1-994a-0f1ea3f191d8" />
 
+<img width="2560" height="1709" alt="image" src="https://github.com/user-attachments/assets/e8040d0b-1733-49c0-b329-b7417c79cf46" />
 
 There are three common methods of signal transmission used in networks:
 
@@ -172,4 +173,3 @@ In most homes and small businesses, network signals are transmitted across coppe
 <img width="535" height="380" alt="image" src="https://github.com/user-attachments/assets/b0bc22c2-f3d2-4399-b941-a26bd8d8c00e" />
 
 
-<img width="2560" height="1709" alt="image" src="https://github.com/user-attachments/assets/e8040d0b-1733-49c0-b329-b7417c79cf46" />
