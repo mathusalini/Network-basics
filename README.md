@@ -203,3 +203,8 @@ There are many online speed tests that can reveal the throughput of an internet 
 
 <img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/a6dcdf63-ac86-4cb7-aeff-2b11151d2ff6" />
 
+Throughput is the amount of data that can be sent and received over a network connection in a given time, including delays. It can be measured using online speed-testing websites such as Speedtest.net. A speed test shows download speed (data received) and upload speed (data sent), usually in megabits per second (Mbps). For example, the video shows a download speed of 35.70 Mbps and an upload speed of 35.04 Mbps. Speed tests help measure the performance of both the local network and the internet connection.
+
+<img width="1026" height="826" alt="image" src="https://github.com/user-attachments/assets/f8511e00-6e77-4742-b52f-01949bf75596" />
+
+1.4 Communications in a connected world summary
