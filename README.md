@@ -172,4 +172,34 @@ In most homes and small businesses, network signals are transmitted across coppe
 
 <img width="535" height="380" alt="image" src="https://github.com/user-attachments/assets/b0bc22c2-f3d2-4399-b941-a26bd8d8c00e" />
 
+### 1.2.4 Check Your Understanding - Data Transmission
+
+## 1.3 Bandwidth and Throughput
+### 1.3.1 Bandwidth
+Streaming a movie or playing a multiplayer game requires reliable, fast connections. To support these "high bandwidth" applications, networks have to be capable of transmitting and receiving bits at a very high rate.
+Different physical media support the transfer of bits at different speeds. The rate of data transfer is usually discussed in terms of bandwidth and throughput.
+Bandwidth is the capacity of a medium to carry data. Digital bandwidth measures the amount of data that can flow from one place to another in a given amount of time. Bandwidth is typically measured in the number of bits that (theoretically) can be sent across the media in a second. Common bandwidth measurements are as follows:
+• Thousands of bits per second (Kbps)
+• Millions of bits per second (Mbps)
+• Billions of bits per second (Gbps)
+Physical media properties, current technologies, and the laws of physics all play a role in determining available bandwidth.
+The table shows the commonly used units of measure for bandwidth...
+
+<img width="740" height="338" alt="image" src="https://github.com/user-attachments/assets/4f81336f-8a0d-4183-988d-51e247e79c56" />
+
+### 1.3.2 Throughput
+Like bandwidth, throughput is the measure of the transfer of bits across the media over a given period of time. However, due to a number of factors, throughput does not usually match the specified bandwidth. Many factors influence throughput including:
+
+The amount of data being sent and received over the connection
+The types of data being transmitted
+The latency created by the number of network devices encountered between source and destination
+Latency refers to the amount of time, including delays, for data to travel from one given point to another.
+
+Throughput measurements do not take into account the validity or usefulness of the bits being transmitted and received. Many messages received through the network are not destined for specific user applications. An example would be network control messages that regulate traffic and correct errors.
+
+In an internetwork or network with multiple segments, throughput cannot be faster than the slowest link of the path from sending device to the receiving device. Even if all or most of the segments have high bandwidth, it will only take one segment in the path with lower bandwidth to create a slowdown of the throughput of the entire network.
+
+There are many online speed tests that can reveal the throughput of an internet connection.
+
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/a6dcdf63-ac86-4cb7-aeff-2b11151d2ff6" />
 
