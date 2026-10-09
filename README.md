@@ -208,3 +208,74 @@ Throughput is the amount of data that can be sent and received over a network co
 <img width="1026" height="826" alt="image" src="https://github.com/user-attachments/assets/f8511e00-6e77-4742-b52f-01949bf75596" />
 
 1.4 Communications in a connected world summary
+
+Module 2-Network components ,types,and connections 
+2.0 introduction 
+2.0.1 Webster - Why Should I Take this Module?
+
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/7fc4603e-4c86-4ff4-b602-e2d5901d242a" />
+
+2.0.2What we can learn from here
+
+<img width="682" height="366" alt="image" src="https://github.com/user-attachments/assets/23d40c96-db5e-469f-9b66-744b43c20ada" />
+
+<img width="682" height="366" alt="image" src="https://github.com/user-attachments/assets/86e4fbd9-1f1d-47a4-bf45-11eb42277d86" />
+
+2.1 Clients and Servers
+
+<img width="652" height="325" alt="image" src="https://github.com/user-attachments/assets/f953a1ae-b4be-4c35-961b-df1b5443d05d" />
+
+<img width="663" height="323" alt="image" src="https://github.com/user-attachments/assets/5dc3c155-4f2b-438b-a0a3-11440b1488e5" />
+
+2.1.2 Client and Server Roles
+All computers connected to a network that participate directly in network communication are classified as hosts. Hosts can send and receive messages on the network. In modern networks, computer hosts can act as a client, a server, or both, as shown in the figure. The software installed on the computer determines which role the computer plays.
+
+<img width="607" height="190" alt="image" src="https://github.com/user-attachments/assets/02406285-be0f-49ee-9d58-fbcedd40fe7f" />
+
+<img width="700" height="213" alt="image" src="https://github.com/user-attachments/assets/86b5d3b6-0d94-4e10-b6c2-338ded0749a0" />
+
+<img width="912" height="295" alt="image" src="https://github.com/user-attachments/assets/a5c15665-93cb-444e-a64c-165304265206" />
+
+2.1.3 Peer-to-Peer Networks
+Client and server software usually run on separate computers, but it is also possible for one computer to run both client and server software at the same time. In small businesses and homes, many computers function as the servers and clients on the network. This type of network is called a peer-to-peer (P2P) network.
+
+The simplest P2P network consists of two directly connected computers using either a wired or wireless connection. Both computers are then able to use this simple network to exchange data and services with each other, acting as either a client or a server as necessary.
+
+Multiple PCs can also be connected to create a larger P2P network, but this requires a network device, such as a switch, to interconnect the computers.
+
+The main disadvantage of a P2P environment is that the performance of a host can be slowed down if it is acting as both a client and a server at the same time. The figure lists some of the advantages and disadvantages of peer-to-peer networks.
+In larger businesses, because of the potential for high amounts of network traffic, it is often necessary to have dedicated servers to support the number of service requests.
+
+The advantages and disadvantages of P2P networking are summarized in the figure.
+
+<img width="717" height="260" alt="image" src="https://github.com/user-attachments/assets/7dfd16d1-d0c3-4c32-a5f9-ebe5c1559421" />
+
+The advantages of peer-to-peer networking:
+
+Easy to set up
+Less complex
+Lower cost because network devices and dedicated servers may not be required
+Can be used for simple tasks such as transferring files and sharing printers
+The disadvantages of peer-to-peer networking:
+
+No centralized administration
+Not as secure
+Not scalable
+All devices may act as both clients and servers which can slow their performance
+
+2.1.4 Peer-to-Peer Applications
+A P2P application allows a device to act as both a client and a server within the same communication, as shown in the figure. In this model, every client is a server and every server is a client. P2P applications require that each end device provide a user interface and run a background service.
+
+Some P2P applications use a hybrid system where resource sharing is decentralized, but the indexes that point to resource locations are stored in a centralized directory. In a hybrid system, each peer accesses an index server to get the location of a resource stored on another peer.
+
+<img width="710" height="410" alt="image" src="https://github.com/user-attachments/assets/ea0baa41-8c15-45b6-82ca-23c77a18fa3f" />
+
+Both clients can simultaneously send and receive messages.
+
+2.1.5 Multiple Roles in the Network
+A computer with server software can provide services simultaneously to one or many clients, as shown in the figure.
+
+Additionally, a single computer can run multiple types of server software. In a home or small business, it may be necessary for one computer to act as a file server, a web server, and an email server.
+
+A single computer can also run multiple types of client software. There must be client software for every service required. With multiple clients installed, a host can connect to multiple servers at the same time. For example, a user can check email and view a web page while instant messaging and listening to internet radio.
+
