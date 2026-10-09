@@ -217,7 +217,7 @@ Module 2-Network components ,types,and connections
 
 2.0.2What we can learn from here
 
-<img width="682" height="366" alt="image" src="https://github.com/user-attachments/assets/23d40c96-db5e-469f-9b66-744b43c20ada" />
+<img width="718" height="426" alt="image" src="https://github.com/user-attachments/assets/123b649b-5aeb-4f9f-acce-9dd06b9b7ba6" />
 
 <img width="682" height="366" alt="image" src="https://github.com/user-attachments/assets/86e4fbd9-1f1d-47a4-bf45-11eb42277d86" />
 
