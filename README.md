@@ -279,3 +279,5 @@ Additionally, a single computer can run multiple types of server software. In a 
 
 A single computer can also run multiple types of client software. There must be client software for every service required. With multiple clients installed, a host can connect to multiple servers at the same time. For example, a user can check email and view a web page while instant messaging and listening to internet radio.
 
+<img width="677" height="517" alt="image" src="https://github.com/user-attachments/assets/09f7ca8f-8433-483f-a768-4139650332e5" />
+
