@@ -272,7 +272,7 @@ Some P2P applications use a hybrid system where resource sharing is decentralize
 
 Both clients can simultaneously send and receive messages.
 
-2.1.5 Multiple Roles in the Network
+**2.1.5 Multiple Roles in the Network**
 A computer with server software can provide services simultaneously to one or many clients, as shown in the figure.
 
 Additionally, a single computer can run multiple types of server software. In a home or small business, it may be necessary for one computer to act as a file server, a web server, and an email server.
