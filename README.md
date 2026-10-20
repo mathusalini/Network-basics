@@ -281,3 +281,19 @@ A single computer can also run multiple types of client software. There must be 
 
 <img width="677" height="517" alt="image" src="https://github.com/user-attachments/assets/09f7ca8f-8433-483f-a768-4139650332e5" />
 
+## Network Components
+### 2.2.2 Network Infrastructure
+The path that a message takes from its source to destination can be as simple as a single cable connecting one computer to another, or as complex as a network that literally spans the globe. This network infrastructure is the platform that supports the network. It provides the stable and reliable channel over which our communications can occur.
+
+The network infrastructure contains three categories of hardware components, as shown in the figure:
+
+End devices
+Intermediate devices
+Network media
+
+<img width="687" height="495" alt="image" src="https://github.com/user-attachments/assets/c3215f9c-080c-464f-b0a1-46e0eb77a21b" />
+
+Devices and media are the physical elements, or hardware, of the network. Hardware is often the visible components of the network platform such as a laptop, PC, switch, router, wireless access point, or the cabling used to connect the devices. Occasionally, some components may not be so visible. In the case of wireless media, messages are transmitted through the air using invisible radio frequencies or infrared waves.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9773d80c-133a-4ab2-8799-d3ed2c33f21d" />
+
